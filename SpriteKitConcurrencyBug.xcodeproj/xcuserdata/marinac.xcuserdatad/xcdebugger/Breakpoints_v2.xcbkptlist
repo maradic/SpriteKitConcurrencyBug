@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C8E2A8A-B01A-4B08-B136-4CF7316FE219"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A456A64-C7B1-41DC-BC78-B69B69A470DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitConcurrencyBug/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "setup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21D3597F-7AC3-4901-BE6F-4D232A26E38B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitConcurrencyBug/ViewControllers/TestViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "backButtonTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16F7FE16-9285-4A48-BED9-E2E6F50FDFD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitConcurrencyBug/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "sceneDidAddToView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C26033E-0FA3-4D94-BA4A-7644FF76497D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitConcurrencyBug/ViewControllers/TestViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "TestViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45C995C7-8FEA-4604-9414-7EEE634DDAE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitConcurrencyBug/Scene/BaseNode.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "removeAllActions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAF7199E-5F85-44A0-9186-44BB51A70F03"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitConcurrencyBug/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "sceneDidAddToView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "591E499D-38B5-4B51-AEE1-BA963D00473F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitConcurrencyBug/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "sceneDidAddToView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "591E499D-38B5-4B51-AEE1-BA963D00473F - eae35d5c434293a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in SpriteKitConcurrencyBug.ViewController.sceneDidAddToView() -&gt; ()"
+                  moduleName = "SpriteKitConcurrencyBug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinac/Projects/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "591E499D-38B5-4B51-AEE1-BA963D00473F - c7c40d101bb00bce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async -&gt; () in SpriteKitConcurrencyBug.ViewController.sceneDidAddToView() -&gt; ()"
+                  moduleName = "SpriteKitConcurrencyBug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinac/Projects/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "591E499D-38B5-4B51-AEE1-BA963D00473F - b0f6cf077ed874c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SpriteKitConcurrencyBug.ViewController.sceneDidAddToView() -&gt; ()"
+                  moduleName = "SpriteKitConcurrencyBug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinac/Projects/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0981F08-2B6F-472C-81F7-326831D7CF8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitConcurrencyBug/Scene/CustomScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "startIntro()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11D2638B-F51E-464A-9961-5772A5D58A51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitConcurrencyBug/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "sceneDidAddToView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11D2638B-F51E-464A-9961-5772A5D58A51 - c7c40d101bb00baf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async -&gt; () in SpriteKitConcurrencyBug.ViewController.sceneDidAddToView() -&gt; ()"
+                  moduleName = "SpriteKitConcurrencyBug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinac/Projects/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "11D2638B-F51E-464A-9961-5772A5D58A51 - 63fdb144228389ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in SpriteKitConcurrencyBug.ViewController.sceneDidAddToView() -&gt; ()"
+                  moduleName = "SpriteKitConcurrencyBug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinac/Projects/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "11D2638B-F51E-464A-9961-5772A5D58A51 - 459864fc9acc96a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SpriteKitConcurrencyBug.ViewController.sceneDidAddToView() -&gt; ()"
+                  moduleName = "SpriteKitConcurrencyBug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinac/Projects/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "11D2638B-F51E-464A-9961-5772A5D58A51 - b0f6cf077ed874a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SpriteKitConcurrencyBug.ViewController.sceneDidAddToView() -&gt; ()"
+                  moduleName = "SpriteKitConcurrencyBug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinac/Projects/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/SpriteKitConcurrencyBug/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
