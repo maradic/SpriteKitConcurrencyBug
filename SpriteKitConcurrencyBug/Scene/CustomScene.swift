@@ -16,8 +16,6 @@ class CustomScene: SKScene {
     
     @MainActor
     func startIntro() async {
-//        let raisingApple = SKSpriteNode(texture: SKTexture(imageNamed: "balloon-red"), color: .clear, size: .init(width: 50, height: 50))
-        // Second workaround
         let raisingApple = BaseNode(texture: SKTexture(imageNamed: "balloon-red"), color: .clear, size: .init(width: 50, height: 50))
         raisingApple.size = CGSize(width: 57, height: 90)
         raisingApple.anchorPoint = CGPoint(x: 0.5, y: 1)

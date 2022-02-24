@@ -9,11 +9,12 @@ Steps to reproduce:
 2. tap 'Reproduce bug' button
 3. Tap on the back button
 4. check memory:
+
 ![Memory screenshot](memory.png)
 
 
 Proposed solutions:
-Call when controller need to be removed:
+Call when controller needs to be removed:
 ```
     // First solution thanks to Jure Lajlar
     public func firstWorkAround() {
@@ -41,7 +42,7 @@ Store all CheckedContinuation run actions:
     }
  ```
     
-Removing when don't need:
+Call when controller needs to be removed:
 
 ```
     // Second solution thanks to Jure Lajlar
