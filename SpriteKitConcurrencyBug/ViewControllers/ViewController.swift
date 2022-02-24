@@ -30,7 +30,7 @@ class ViewController: UIViewController {
 
 extension ViewController: CustomSceneDelegate {
     func sceneDidAddToView() {
-        guard let controller = testController else { return }
+        guard let controller = testController else { return }      
         Task {
             try? await Task.sleep(nanoseconds: 2 * NSEC_PER_SEC)
             await controller.startIntro()
